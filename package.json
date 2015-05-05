@@ -1,0 +1,25 @@
+{
+  "name": "dulce-db",
+  "version": "0.0.1",
+  "description": "A sweet NodeJS database package. Easily connect to various databases with a simple unified API. ",
+  "main": "db.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "~2.3.0",
+    "glob": "~5.0.5",
+    "gulp": "~3.8.11",
+    "gulp-mocha": "~2.0.1",
+    "gulp-util": "~3.0.4",
+    "sinon": "~1.14.1",
+    "mysql": "~2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": ["K. Shunz", "Dwayne Ford"],
+  "license": "MIT",
+  "repository": "https://github.com/kshunz/dulce-db.git"
+}
