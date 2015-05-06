@@ -19,7 +19,7 @@
   "scripts": {
     "test": "gulp test"
   },
-  "author": ["K. Shunz", "Dwayne Ford"],
+  "contributors": ["K. Shunz", "Dwayne Ford"],
   "license": "MIT",
   "repository": "https://github.com/kshunz/dulce-db.git"
 }
