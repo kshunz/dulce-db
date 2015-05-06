@@ -1,4 +1,4 @@
 module.exports = {
   'driver': 'json',
-  'path': '/home/safe/data/ls'
+  'path': '/some/path/to/data'
 };
