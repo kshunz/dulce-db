@@ -7,15 +7,16 @@
     "test": "tests"
   },
   "dependencies": {
-    "chai": "~2.3.0",
     "glob": "~5.0.5",
+    "mysql": "~2.6.2"
+  },
+  "devDependencies": {
+    "chai": "~2.3.0",
     "gulp": "~3.8.11",
     "gulp-mocha": "~2.0.1",
     "gulp-util": "~3.0.4",
-    "sinon": "~1.14.1",
-    "mysql": "~2.6.2"
+    "sinon": "~1.14.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "gulp test"
   },
